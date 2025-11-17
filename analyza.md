@@ -362,24 +362,3 @@ Používané vo **všetkých** workflows pre konzistentné prostredie.
 ⚠️ iOS deployment je manuálny  
 ⚠️ Chýba runtime monitoring (Sentry, Crashlytics)  
 ⚠️ Flathub push je vypnutý
-
-### 12.3 Štatistiky
-
-- **542 riadkov** YAML konfigurácie
-- **8 workflow súborov**
-- **12 DevOps nástrojov**
-- **5 platforiem**
-- **38 jazykov**
-- **7 artefaktov** pri release
-
-### 12.4 Celkové hodnotenie
-
-**8/10 bodov**
-
-Projekt implementuje vysoko kvalitnú DevOps infraštruktúru s komplexnou CI/CD pipeline, automatizáciou kľúčových procesov a správnou implementáciou bezpečnostných best practices. Pre plný počet bodov by bolo potrebné pridať runtime monitoring a dokončiť Windows/Linux implementácie.
-
----
-
-*Dokument vytvorený: November 2025*  
-*Založené na analýze 8 workflow súborov z .github/workflows/*  
-*Celková konfigurácia: 542 riadkov YAML kódu*
